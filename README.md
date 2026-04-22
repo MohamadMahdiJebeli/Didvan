@@ -10,10 +10,10 @@
 ---
 
 🚀 Features:
-- **Strategic monitoring** and horizon scanning for temporal geography.
-- **Interactive futures research** and scenario planning tools.
-- **Decision support system** providing actionable insights for organizations.
-- **Anticipatory systems** to navigate uncertainties and unprecedented future events.
+- Strategic monitoring and horizon scanning for temporal geography.
+- Interactive futures research and scenario planning tools.
+- Decision support system providing actionable insights for organizations.
+- Anticipatory systems to navigate uncertainties and unprecedented future events.
 
 ---
 
