@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - **Strategic monitoring** and horizon scanning for temporal geography.
 - **Interactive futures research** and scenario planning tools.
