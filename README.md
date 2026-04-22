@@ -72,7 +72,7 @@ lib/
     ├── widgets/        # Highly reusable, atomic UI components (Didvan UI Kit)
     └── ...             # Other modular screens (Onboarding, PDF Viewer, Splash)
 ```
-## 🌐[Didvan Official Website](https://https://didvan.com/):
+## 🌐[Didvan Official Website](https://didvan.com/):
 For more information and to experience the platform, check out our website:
 
 https://didvan.com
