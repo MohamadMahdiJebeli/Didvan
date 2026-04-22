@@ -1,7 +1,7 @@
 <img width="150" alt="Didvan" src="https://github.com/user-attachments/assets/947304b8-aea5-4888-94a4-3870bd571709" />
 
 
-**👁️ [Didvan - Strategic Monitoring System](https://didvan.com)** : Didvan is a Flutter-based intelligent strategic monitoring system and a comprehensive suite of interactive future-study tools designed to serve as the intellectual arm for businesses navigating the future.
+**👁️ [Didvan - The Ever-Watchful Eye of Managers](https://didvan.com)** : Didvan is a Flutter-based intelligent strategic monitoring system and a comprehensive suite of interactive future-study tools designed to serve as the intellectual arm for businesses navigating the future.
 
 > **Note:** This repository is for demonstration and portfolio purposes only. The source code is proprietary and closed-source.
 >
